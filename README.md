@@ -54,4 +54,5 @@ The dataset used in this project is the **Hotel Booking Demand Dataset**, common
 - Project report
 - images -> Graphs
 
-
+## graphs
+<img src= 'images/ADR_month_daily.png">
