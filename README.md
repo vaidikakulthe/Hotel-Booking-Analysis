@@ -4,12 +4,25 @@
 This project analyzes hotel booking data to understand booking patterns and cancellation behavior. The analysis was performed using Python for data cleaning and exploratory data analysis, and Power BI for dashboard visualization.
 
 ## Tools and Technologies
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Power BI
-- Jupyter Notebook
+### 📊 Data Analysis & Manipulation  
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</div>
+
+### 📈 Data Visualization & BI  
+<div align="center">
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-444444?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+</div>
+
+### 📓 Environment & IDE  
+<div align="center">
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
 
 ## Project Steps
 1. Data Cleaning and Preprocessing using Python
@@ -38,5 +51,7 @@ The dataset used in this project is the **Hotel Booking Demand Dataset**, common
 - Cleaned dataset
 - Jupyter Notebook with analysis code
 - Power BI dashboard 
-- Project report 
+- Project report
+- images -> Graphs
+
 
