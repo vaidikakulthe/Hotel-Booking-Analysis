@@ -105,7 +105,7 @@ The dashboard provides a 360-degree view of hotel operations. It allows for dyna
 
 | 📅 Total Bookings | ❌ Cancellation Rate | 💰 Avg Daily Rate (ADR) | 🌍 Top Market |
 | :---: | :---: | :---: | :---: |
-| **119,390** | **37.04%** | **€101.83** | **Portugal (PRT)** |
+| **53,957** | **39.6%** | **€96.737** | **Portugal (PRT)** |
 
 ---
 
@@ -129,7 +129,7 @@ The dashboard provides a 360-degree view of hotel operations. It allows for dyna
 ## 🎯 Key Insights & Findings
 
 > [!IMPORTANT]
-> **Cancellation Alert:** City hotels experience significantly higher cancellation rates (41%) compared to Resort hotels (27%). This suggests a need for stricter deposit policies in urban areas.
+> **Cancellation Alert:** City hotels experience significantly higher cancellation rates (53%) compared to Resort hotels (25%). This suggests a need for stricter deposit policies in urban areas.
 
 * **Pricing Strategy:** The **Average Daily Rate (ADR)** peaks drastically in August for resorts, indicating high seasonal demand that can be leveraged for early-bird promotions.
 * **Customer Origin:** Portugal (PRT) is the primary market. Expanding marketing efforts to Great Britain (GBR) and France (FRA) could further diversify the guest portfolio.
